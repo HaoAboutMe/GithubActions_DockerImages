@@ -28,5 +28,5 @@ jobs:
           context: .
           push: true
           tags: |
-            nguyenlehoanhao/webbanhangjava:latest
-            nguyenlehoanhao/webbanhangjava:${{ github.sha }}
+            nguyenlehoanhao/duanjava:latest
+            nguyenlehoanhao/duanjava:${{ github.sha }}
